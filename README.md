@@ -1,5 +1,5 @@
 # Medical AI Agents Evaluation and Safety Oversight Data
-
+[![DOI](https://zenodo.org/badge/1402720667.svg)](https://doi.org/10.5281/zenodo.23118833)
 Version: 1.0.2
 Frozen analysis scope: 54 included reports; R255 excluded after the final eligibility audit.
 Search cutoff: June 18, 2026.
